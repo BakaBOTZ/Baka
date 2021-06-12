@@ -46,19 +46,6 @@
 ```bash
 > node . [<session name>] (session name is optional)
 ```
-# Features
-| :---------------------------------------------: | :-----------: | 
-| CekPrefix |✅|
-| Stats |✅|
-| Limit |✅|
-| Balance |✅|
-| RunTime |✅|
-| Speed |✅|
-| Owner |✅|
-| Donasi |✅|
-
-* Masih Banyak Lagi
---------------
 
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 > WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
@@ -68,6 +55,7 @@
 > Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
 > Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
 ```
+
 
 # Thanks to
 * TUHAN YANG MAHA ESA
