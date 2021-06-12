@@ -47,16 +47,15 @@
 > Click [`Here`](https://github.com/BakaBOTZ/Baka/blob/main/message/help.js) 
 ```
 
---------------
-
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
-> #### WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
-> #### Instagram : [`@ythomeanime`](https://instagram.com/ythomeanime)
-> #### YouTube   : [`⚔「ʜᴏᴍᴇᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
+```bash
+> WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
+> Instagram : [`@ythomeanime`](https://instagram.com/ythomeanime)
+> YouTube   : [`⚔「ʜᴏᴍᴇᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
 
-> #### Kontak    : [`RakuSenpai`](https://wa.me/6287834993722)
-> #### Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
-> #### Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
+> Kontak    : [`RakuSenpai`](https://wa.me/6287834993722)
+> Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
+> Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
 ```
 
 # Thanks to
