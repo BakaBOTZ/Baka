@@ -54,6 +54,7 @@ Penyimpanan Memadai
 > #### Kontak    : [`RakuSenpai`](https://wa.me/6287834993722)
 > #### Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
 > #### Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
+```
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
@@ -66,3 +67,4 @@ Penyimpanan Memadai
 * [`SlavyanDesu`](https://github.com/SlavyanDesu)
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`TobyG74`](https://github.com/TobyG74)
+```
