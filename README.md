@@ -3,10 +3,10 @@
 
 ## Alat & Bahan
 ```bash
-2 Handphone
-Niat
-Kuota Yang Bnyk:v
-Penyimpanan Memadai
+> 2 Handphone
+> Niat
+> Kuota Yang Bnyk:v
+> Penyimpanan Memadai
 ```
 
 
@@ -21,8 +21,8 @@ Penyimpanan Memadai
 > termux-setup-storage
 > cd storage
 > cd downloads
-> unzip Baka.zip
-> cd BakaBOTZ
+> git clone https://github.com/BakaBOTZ/Baka
+> cd Baka
 > npm install
 ```
 ###
@@ -48,15 +48,18 @@ Penyimpanan Memadai
 ```
 
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
-> #### WhatsApp  : [`GRUP WA`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
+```bash
+> #### WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
 > #### Instagram : [`@ythomeanime`](https://instagram.com/ythomeanime)
-> #### YouTube   : [`⚔「ʜᴏᴍᴇ ᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw) 
+> #### YouTube   : [`⚔「ʜᴏᴍᴇᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw) 
 > #### Kontak    : [`RakuSenpai`](https://wa.me/6287834993722)
 > #### Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
 > #### Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
 ```
 
 # Thanks to
+* TUHAN YANG MAHA ESA
+* Orang Tua
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz-Team`](https://github.com/Xinz-Team)
 * [`Nurutomo`](https://github.com/Nurutomo)
