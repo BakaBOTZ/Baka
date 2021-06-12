@@ -30,11 +30,14 @@
 > node main.js
 ```
 
-#### FOR WINDOWS/VPS/RDP USER
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
-* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
+
+# Requirements
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
+* [Image Magic](https://imagemagick.org/script/download.php) ( for nulis command)
+* Any text editor) 
 ```bash
 > cd BakaBOTZ
 > npm install
