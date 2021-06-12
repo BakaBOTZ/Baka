@@ -48,7 +48,7 @@
 ```
 
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
-```
+```bash
 > WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
 > Instagram : [`@ythomeanime`](https://instagram.com/ythomeanime)
 > YouTube   : [`⚔「ʜᴏᴍᴇᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
