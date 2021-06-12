@@ -44,12 +44,11 @@
 > node . [<session name>] (session name is optional)
 ```
 # Features
-```bash
 > Click [`Here`](https://github.com/BakaBOTZ/Baka/blob/main/message/help.js) 
 ```
 
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
-```bash
+
 > WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
 > Instagram : [`@ythomeanime`](https://instagram.com/ythomeanime)
 > YouTube   : [`⚔「ʜᴏᴍᴇᴀɴɪᴍᴇ」⚔`](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
