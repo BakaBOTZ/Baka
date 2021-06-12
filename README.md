@@ -56,7 +56,7 @@
 
 > Kontak    : [`RakuSenpai`](https://wa.me/6287834993722)
 
-> Creator   : [`XinzBot`](https://github.com/https://github.com/Xinz-Team)
+> Creator   : [`XinzBot`](https://github.com/Xinz-Team)
 
 > Recoded   : [`BakaBOTZ`](https://github.com/BakaBOTZ)
 
