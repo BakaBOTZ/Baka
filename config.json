@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6287834993722@s.whatsapp.net",
+    "ownerName": "RAKU GANS",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "BAKA BOTZ",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "",//isi apikey lolhumanmu
+    "sesidInsta": "default",
+    "sessionName": "BAKA BOTZ",
+    "txtDonasi": "GOPAY : 6287834993722\nTrakteer : ISI_SINI\nSaweeria : ISI_SINI\nPulsa : 6287834993722",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
