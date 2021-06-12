@@ -44,8 +44,18 @@
 > node . [<session name>] (session name is optional)
 ```
 # Features
-> Click [`Here`](https://github.com/BakaBOTZ/Baka/blob/main/message/help.js) 
-```
+| :---------------------------------------------: | :-----------: | 
+| CekPrefix |✅|
+| Stats |✅|
+| Limit |✅|
+| Balance |✅|
+| RunTime |✅|
+| Speed |✅|
+| Owner |✅|
+| Donasi |✅|
+
+* Masih Banyak Lagi
+--------------
 
 # SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 > WhatsApp  : [`GrupWa`](https://chat.whatsapp.com/I1EYwXRsPzF7WxhGvvaE7v) 
